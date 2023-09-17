@@ -1,4 +1,8 @@
 Bu benim ilk yazdığım koddur.
 Bu dosya değiştirildi
 
+<<<<<<< HEAD
 conflit değişikliği-2
+=======
+conflit değişikliği-3
+>>>>>>> origin/testbranch
