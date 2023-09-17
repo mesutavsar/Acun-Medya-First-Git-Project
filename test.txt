@@ -1,4 +1,4 @@
 Bu benim ilk yazdığım koddur.
 Bu dosya değiştirildi
 
-conflit değişikliği-1
+conflit değişikliği-2
